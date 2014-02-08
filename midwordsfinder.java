@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class print {
+public class midwordsfinder {
 
 	public static void main(String[] args) {
 	
